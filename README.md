@@ -16,7 +16,7 @@
 ## :pushpin: LearnPython
 
 ### [**Проект**](https://github.com/DariaGoncharevskaia/ShPortBot):
-Telegram - бот для формирования оптимального инвестиционного портфеля.
+Telegram-бот для формирования оптимального инвестиционного портфеля.
 
 
 ## :pushpin: Сompetitions
