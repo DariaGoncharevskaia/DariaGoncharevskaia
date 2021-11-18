@@ -21,7 +21,12 @@ Telegram - бот для формирования оптимального ин�
 
 ## Сompetitions
 
-[**OPEN DATA BATTLE**] https://github.com/DariaGoncharevskaia/open-data-battle
+[**OPEN DATA BATTLE**] (https://github.com/DariaGoncharevskaia/open-data-battle)
+Решенные задачи:
+- EDA + correlation
+- EDA + binary classification.
+
+Результат: прошла в финал.
 
 
 
