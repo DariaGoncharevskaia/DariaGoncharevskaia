@@ -1,6 +1,9 @@
 # Hi there, I'm Daria!
 
 
+## :pushpin: [**RESUME**](https://github.com/DariaGoncharevskaia/resume/blob/main/%D0%93%D0%BE%D0%BD%D1%87%D0%B0%D1%80%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F.pdf)
+
+
 ## :pushpin: Yandex practicum. Data Science
 
 ### [**Проекты**](https://github.com/DariaGoncharevskaia/projects-data-science):
